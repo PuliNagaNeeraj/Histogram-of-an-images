@@ -88,12 +88,13 @@ cv2.waitKey(0)
 ### Input Grayscale Image and Color Image
 ![dip-3 1](https://github.com/PuliNagaNeeraj/Histogram-of-an-images/assets/138849173/f5970f82-350a-4572-a874-0534751b5a1d)
 
-### Histogram of Grayscale Image and any channel of Color Image
+### Histogram of Grayscale Image
 ![dip-3 3](https://github.com/PuliNagaNeeraj/Histogram-of-an-images/assets/138849173/b57d2a73-04ba-4f00-9f3d-38ee8a2306d5)
 
-### Histogram Equalization of Grayscale Image.
+### Histogram of colour image
 ![dip-3 2](https://github.com/PuliNagaNeeraj/Histogram-of-an-images/assets/138849173/d01cacf7-3667-4e36-900d-0d2ef1a0b15e)
 
+### Histogram Equalization of Grayscale Image.
 ![dip-3 4](https://github.com/PuliNagaNeeraj/Histogram-of-an-images/assets/138849173/ae00b34e-7248-497b-9003-1d9c81e25ae0)
 
 ## Result: 
